@@ -1,3 +1,4 @@
-# FUKUIKUWeb
+# SEQ Inc.
 
-https://churikitenna.github.io/FUKUIKUWeb/
+yarn build
+firebase deploy
